@@ -1,0 +1,106 @@
+{
+    "meta": {
+		"formtype": "HEALTH INSURANCE CLAIM FORM"
+	},
+	"PATIENT AND INSURED INFORMATION": [
+		{
+			"1.INSURED PLAN": "FECA BLK LUNG ID#",
+			"1a. INSURED'S I.D. NUMBER": "VBN7235-CXZ-1129",
+			"2. PATIENT'S NAME": "VIERS, JAIME G",
+			"3. PATIENT'S DATE OF BIRTH":[
+			{"MM":"04", "DD":"10", "YY":"1993"}
+			],
+			"3. PATIENT'S SEX": "M",
+			"4. INSURED'S NAME": "VIERS, JAIME G",
+			"5. PATIENT'S ADDRESS": "265 FREEMONT STREET",
+			"5. PATIENT'S CITY": "BATTLE CREEK",
+			"5. PATIENT'S STATE":"AL",
+			"5. PATIENT'S ZIP CODE": "49017",
+			"5. PATIENT'S TELEPHONE": "985 239-9781",
+			"6. PATIENT RELATIONSHIP": "Self",
+			"7. INSURED'S ADDRESS": "",
+			"7. INSURED'S CITY": "BATTLE CREEK", 
+			"7. INSURED'S STATE":"AL",
+			"7. INSURED'S ZIP CODE":"49017", 
+			"7. INSURED'S TELEPHONE":"765 235-5916",
+			"9. OTHER INSURED'S NAME": "VIERS, JAIME G",
+			"9a. OTHER INSURED'S POLICY OR GROUP": "2009195R715",
+			"9d. INSURANCE PLAN NAME": "MEDFICA GROUP",
+			"10. PATIENT'S CONDITION": [
+			{"10a. EMPLOYMENT": "NO"},
+			{"10b. AUTO ACCIDENT": "NO"},
+			{"10c. OTHER ACCIDENT":"NO"}
+			],
+			"11. INSURED'S POLICY GROUP OR FECA NUMBER": "266010520273",
+			"11a. INSURED'S SEX": "M",
+			"11c. INSURANCE PLAN NAME": "HOME DEPOT CENTRE SPECIAL GROUP",
+			"11d. IS THERE ANOTHER HEALTH BENEFIT PLAN": "YES",
+			"12. PATIENT'S OR AUTHORIZED PERSON'S SIGNATURE": [
+			{"SIGNED": "SIGNATURE ON FILE", "DATE": "01/11/2025"}
+			],
+			"13. INSURED OR AUTHORIZED PERSON'S SIGNATURE": "SIGNATURE ON FILE"
+		}
+	],
+	"PHYSICIAN OR MEDICAL PROVIDER INFORMATION": [
+        {
+            "21. DIAGNOSIS OR NATURE OF ILLNESS": [
+			{
+				"label":"ICD Indicator",
+				"text": "9",
+				"words": [
+					{
+						"word": "9",
+						"normalizedVertices": [
+							{
+								"x": 875,
+								"y": 1295
+							},
+							{
+								"x": 905,
+								"y": 1295
+							},
+							{
+								"x": 905,
+								"y": 1320
+							},
+							{
+								"x": 875,
+								"y": 1320
+							}
+						]
+					}
+				]	
+			},
+			{"ILLNESS A.": "B919M", "ILLNESS B.": "TY1235", "ILLNESS C.": "", "ILLNESS D.": ""},
+			{"ILLNESS E.": "G33 . 05", "ILLNESS F.": ""}
+			],
+			"20. OUTSIDE LAB": "YES",
+			"20. LAB $CHARGES": "4000|58",
+			"22. RESUBMISSION CODE":  "",
+			"23. PRIOR AUTHORIZATION NUMBER": "00000888888",
+			"24. SERVICES": [
+			{"MM 1":"09", "DD 1":"30", "YY 1": "24", "PLACE OF SERVICE 1": "04", "EMG 1": "", "CPT/HCPCS 1": "B9990", "MODIFIER 1": "NB", "DIAGNOSIS POINTER 1": "124", "$CHARGES 1":"11|40", "UNITS 1":"1.5", "Family Plan 1": "Y", "PROVIDER ID 1": "155-2565UP"},
+			{"MM 2":"10", "DD 2":"15", "YY 2":"24", "PLACE OF SERVICE 2": "05", "EMG 2": "Y", "CPT/HCPCS 2": "MX234", "MODIFIER 2": "JK", "DIAGNOSIS POINTER 2": "B4", "$CHARGES 2": "90|00", "UNITS 2": "30", "Family Plan 2": "Y", "PROVIDER ID 2": "4125624120"},
+			{"MM 3":"", "DD 3":"", "YY 3":"", "PLACE OF SERVICE 3": "", "EMG 3": "", "CPT/HCPCS 3": "", "MODIFIER 3": "", "DIAGNOSIS POINTER 3": "", "$CHARGES 3": "", "UNITS 3": "", "Family Plan 3": "", "PROVIDER ID 3": ""}
+			],
+			"25. FEDERAL TAX I.D. NUMBER": "990-90-3434",
+			"25. FEDERAL IDENTIFICATION": "SSN",
+            "26. PATIENT'S ACCOUNT NUMBER": "323332014612",
+            "27. ACCEPT ASSIGNMENT": "YES",
+			"28. TOTAL CHARGE": "101|40",
+			"29. AMOUNT PAID": "095|85",
+			"31. PHYSICIAN OR SUPPLIER SIGNATURE": [
+			{"SIGNED": "PHYSICIAN CREDIBLE", "DATE": "10/29/2025"}
+			],
+			"32. SERVICE INFORMATION": [
+			{"32. SERVICE FACILITY LOCATION": " "},
+			{"32. a. NPI NUMBER": "3665422837"}
+			],
+			"33. BILLING INFORMATION": [
+			{"33. BILLING PROVIDER PHONE": "785 658-7339"},
+			{"33. BILLING PROVIDER LOCATION": "PAY TO: HQ CLAIMS & BILLING SECTION RIVER VIEW LANE, PO BOX 60115 BROOKLYN CENTER IL 83345-1211"},
+			{"33. a. NPI NUMBER": "4125624120"}
+			]
+		}
+	]
+}

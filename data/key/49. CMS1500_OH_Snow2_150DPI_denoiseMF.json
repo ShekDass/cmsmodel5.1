@@ -1,0 +1,106 @@
+{
+    "meta": {
+		"formtype": "HEALTH INSURANCE CLAIM FORM"
+	},
+	"PATIENT AND INSURED INFORMATION": [
+		{
+			"1.INSURED PLAN": "OTHER ID#",
+			"1a. INSURED'S I.D. NUMBER": " ",
+			"2. PATIENT'S NAME": "ALI, DARLA",
+			"3. PATIENT'S DATE OF BIRTH":[
+			{"MM":"08", "DD":"19", "YY":"1964"}
+			],
+			"3. PATIENT'S SEX": "F",
+			"4. INSURED'S NAME": "ALI, ETEMADIAN G",
+			"5. PATIENT'S ADDRESS": "5433 RIVERSIDE DR 31",
+			"5. PATIENT'S CITY": "CHINO",
+			"5. PATIENT'S STATE":"NH",
+			"5. PATIENT'S ZIP CODE": "91710",
+			"5. PATIENT'S TELEPHONE": "955 675-7893",
+			"6. PATIENT RELATIONSHIP": "Other",
+			"7. INSURED'S ADDRESS": "6168 SDT ALTAR RIDGE, KOI LAKE",
+			"7. INSURED'S CITY": "FARSIDE", 
+			"7. INSURED'S STATE":"IL",
+			"7. INSURED'S ZIP CODE":"84588", 
+			"7. INSURED'S TELEPHONE":"",
+			"9. OTHER INSURED'S NAME": "ALI, ETEMADIAN G",
+			"9a. OTHER INSURED'S POLICY OR GROUP": "45990-19941",
+			"9d. INSURANCE PLAN NAME": " ",
+			"10. PATIENT'S CONDITION": [
+			{"10a. EMPLOYMENT": "YES"},
+			{"10b. AUTO ACCIDENT": "NO"},
+			{"10c. OTHER ACCIDENT":"NO"}
+			],
+			"11. INSURED'S POLICY GROUP OR FECA NUMBER": "0420196312548831",
+			"11a. INSURED'S SEX": "F",
+			"11c. INSURANCE PLAN NAME": "AVON GROUP LAKESIDE BENEFITS",
+			"11d. IS THERE ANOTHER HEALTH BENEFIT PLAN": "NO",
+			"12. PATIENT'S OR AUTHORIZED PERSON'S SIGNATURE": [
+			{"SIGNED": "SIGNATURE ON FILE", "DATE": "03 /31 /2026"}
+			],
+			"13. INSURED OR AUTHORIZED PERSON'S SIGNATURE": "ALI"
+		}
+	],
+	"PHYSICIAN OR MEDICAL PROVIDER INFORMATION": [
+        {
+            "21. DIAGNOSIS OR NATURE OF ILLNESS": [
+			{
+				"label":"ICD Indicator",
+				"text": "0",
+				"words": [
+					{
+						"word": "0",
+						"normalizedVertices": [
+							{
+								"x": 875,
+								"y": 1295
+							},
+							{
+								"x": 905,
+								"y": 1295
+							},
+							{
+								"x": 905,
+								"y": 1320
+							},
+							{
+								"x": 875,
+								"y": 1320
+							}
+						]
+					}
+				]	
+			},
+			{"ILLNESS A.": "", "ILLNESS B.": "L8168.4", "ILLNESS C.": "", "ILLNESS D.": "0025 . 8"},
+			{"ILLNESS E.": "EG2145", "ILLNESS F.": ""}
+			],
+			"20. OUTSIDE LAB": "YES",
+			"20. LAB $CHARGES": "48|30",
+			"22. RESUBMISSION CODE": " ",
+			"23. PRIOR AUTHORIZATION NUMBER": "0000000000",
+			"24. SERVICES": [
+			{"MM 1":"01", "DD 1":"19", "YY 1": "24", "PLACE OF SERVICE 1": "18", "EMG 1": "Y", "CPT/HCPCS 1": "U3199", "MODIFIER 1": "", "DIAGNOSIS POINTER 1": "23", "$CHARGES 1":"105|50", "UNITS 1":"004", "Family Plan 1": "", "PROVIDER ID 1": "88115256"},
+			{"MM 2":"04", "DD 2":"13", "YY 2":"28", "PLACE OF SERVICE 2": "08", "EMG 2": "", "CPT/HCPCS 2": "C3546", "MODIFIER 2": "", "DIAGNOSIS POINTER 2": "B4", "$CHARGES 2": "129|00", "UNITS 2": "80", "Family Plan 2": "", "PROVIDER ID 2": "88115288"},
+			{"MM 3":"", "DD 3":"", "YY 3":"", "PLACE OF SERVICE 3": "", "EMG 3": "", "CPT/HCPCS 3": "", "MODIFIER 3": "", "DIAGNOSIS POINTER 3": "", "$CHARGES 3": "", "UNITS 3": "", "Family Plan 3": "", "PROVIDER ID 3": ""}
+			],
+			"25. FEDERAL TAX I.D. NUMBER": "878995114",
+			"25. FEDERAL IDENTIFICATION": "X SSN",
+            "26. PATIENT'S ACCOUNT NUMBER": "9933520014641",
+            "27. ACCEPT ASSIGNMENT": "YES",
+			"28. TOTAL CHARGE": "234|50",
+			"29. AMOUNT PAID": "210|50",
+			"31. PHYSICIAN OR SUPPLIER SIGNATURE": [
+			{"SIGNED": "SIGNATURE ON FILE", "DATE": "12/12/2028"}
+			],
+			"32. SERVICE INFORMATION": [
+			{"32. SERVICE FACILITY LOCATION": "DENTAL UNITED & CARE CENTER ALTA PICA IL 60888 BRONZE LITT CENTRE, 45TH BLOCK"},
+			{"32. a. NPI NUMBER": "88115256"}
+			],
+			"33. BILLING INFORMATION": [
+			{"33. BILLING PROVIDER PHONE": "785 658-7220"},
+			{"33. BILLING PROVIDER LOCATION": "PAY TO: HQTPL CLAIMS & BILLS CENTER RIVER VIEW LANE, POST OFFICE 66632 BROADWAY CENTER IL 89945-1211"},
+			{"33. a. NPI NUMBER": "3665422837"}
+			]
+		}
+	]
+}

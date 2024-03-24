@@ -1,0 +1,106 @@
+{
+    "meta": {
+		"formtype": "HEALTH INSURANCE CLAIM FORM"
+	},
+	"PATIENT AND INSURED INFORMATION": [
+		{
+			"1.INSURED PLAN": "CHAMPVA MemberID#",
+			"1a. INSURED'S I.D. NUMBER": "DDF72351CVNLP4",
+			"2. PATIENT'S NAME": "KRISTOBAC, JAMES M",
+			"3. PATIENT'S DATE OF BIRTH":[
+			{"MM":"10", "DD":"30", "YY":"1981"}
+			],
+			"3. PATIENT'S SEX": "M",
+			"4. INSURED'S NAME": "KRISTOBAC, MARILYN N",
+			"5. PATIENT'S ADDRESS": "#67 SE THEOWOOD, GRAND CANYON",
+			"5. PATIENT'S CITY": "TIDIOUT",
+			"5. PATIENT'S STATE":"RI",
+			"5. PATIENT'S ZIP CODE": "603354",
+			"5. PATIENT'S TELEPHONE": "825 765-9524",
+			"6. PATIENT RELATIONSHIP": "Spouse",
+			"7. INSURED'S ADDRESS": "69905 NV PLACITA ALTA REPOSA",
+			"7. INSURED'S CITY": "TUCSON", 
+			"7. INSURED'S STATE":"PA",
+			"7. INSURED'S ZIP CODE":"85700", 
+			"7. INSURED'S TELEPHONE":"765 235-5916",
+			"9. OTHER INSURED'S NAME": "KRISTOBAC, MARILYN N",
+			"9a. OTHER INSURED'S POLICY OR GROUP": "8401391844",
+			"9d. INSURANCE PLAN NAME": "MEDICAID",
+			"10. PATIENT'S CONDITION": [
+			{"10a. EMPLOYMENT": "YES"},
+			{"10b. AUTO ACCIDENT": "YES"},
+			{"10c. OTHER ACCIDENT":"YES"}
+			],
+			"11. INSURED'S POLICY GROUP OR FECA NUMBER": "OP01199750132",
+			"11a. INSURED'S SEX": "F",
+			"11c. INSURANCE PLAN NAME": "KROGERS PEASRSON EVEN GROUP",
+			"11d. IS THERE ANOTHER HEALTH BENEFIT PLAN": "NO",
+			"12. PATIENT'S OR AUTHORIZED PERSON'S SIGNATURE": [
+			{"SIGNED": "SIGNATURE ON FILE", "DATE": "07/23/2024"}
+			],
+			"13. INSURED OR AUTHORIZED PERSON'S SIGNATURE": "MARILOU'S"
+		}
+	],
+	"PHYSICIAN OR MEDICAL PROVIDER INFORMATION": [
+        {
+            "21. DIAGNOSIS OR NATURE OF ILLNESS": [
+			{
+				"label":"ICD Indicator",
+				"text": "0",
+				"words": [
+					{
+						"word": "0",
+						"normalizedVertices": [
+							{
+								"x": 875,
+								"y": 1295
+							},
+							{
+								"x": 905,
+								"y": 1295
+							},
+							{
+								"x": 905,
+								"y": 1320
+							},
+							{
+								"x": 875,
+								"y": 1320
+							}
+						]
+					}
+				]	
+			},
+			{"ILLNESS A.": "F816.0", "ILLNESS B.": "MS7148", "ILLNESS C.": "", "ILLNESS D.": ""},
+			{"ILLNESS E.": "HX4557", "ILLNESS F.": ""}
+			],
+			"20. OUTSIDE LAB": "NO",
+			"20. LAB $CHARGES": "0| ",
+			"22. RESUBMISSION CODE":  "",
+			"23. PRIOR AUTHORIZATION NUMBER": "0000000000",
+			"24. SERVICES": [
+			{"MM 1":"12", "DD 1":"01", "YY 1": "22", "PLACE OF SERVICE 1": "15", "EMG 1": "Y", "CPT/HCPCS 1": "R1166", "MODIFIER 1": "MK", "DIAGNOSIS POINTER 1": "A", "$CHARGES 1":"239|85", "UNITS 1":"002", "Family Plan 1": "", "PROVIDER ID 1": "66521152"},
+			{"MM 2":"", "DD 2":"", "YY 2":"", "PLACE OF SERVICE 2": "", "EMG 2": "", "CPT/HCPCS 2": "", "MODIFIER 2": "", "DIAGNOSIS POINTER 2": "", "$CHARGES 2": "", "UNITS 2": "", "Family Plan 2": "", "PROVIDER ID 2": ""},
+			{"MM 3":"", "DD 3":"", "YY 3":"", "PLACE OF SERVICE 3": "", "EMG 3": "", "CPT/HCPCS 3": "", "MODIFIER 3": "", "DIAGNOSIS POINTER 3": "", "$CHARGES 3": "", "UNITS 3": "", "Family Plan 3": "", "PROVIDER ID 3": ""}
+			],
+			"25. FEDERAL TAX I.D. NUMBER": "457306881",
+			"25. FEDERAL IDENTIFICATION": "SSN",
+            "26. PATIENT'S ACCOUNT NUMBER": "280218818251",
+            "27. ACCEPT ASSIGNMENT": "YES",
+			"28. TOTAL CHARGE": "239|85",
+			"29. AMOUNT PAID": "50|00",
+			"31. PHYSICIAN OR SUPPLIER SIGNATURE": [
+			{"SIGNED": "POR PHY", "DATE": "JULY 29, 2023"}
+			],
+			"32. SERVICE INFORMATION": [
+			{"32. SERVICE FACILITY LOCATION": "HCC MILITARY SERVICE CENTER HILL ROAD HWY PA 16352 KROGERS SUPERBALL STADIUM EXIT"},
+			{"32. a. NPI NUMBER": "8664852164"}
+			],
+			"33. BILLING INFORMATION": [
+			{"33. BILLING PROVIDER PHONE": "795 658-7668"},
+			{"33. BILLING PROVIDER LOCATION": "PAY TO: BILLING & CLAIMS HQ, PO BOX SE 60115 ST. CLAI RE CANYON HIGH MOUNT 46632"},
+			{"33. a. NPI NUMBER": "66521152"}
+			]
+		}
+	]
+}

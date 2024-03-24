@@ -1,0 +1,106 @@
+{
+    "meta": {
+		"formtype": "HEALTH INSURANCE CLAIM FORM"
+	},
+	"PATIENT AND INSURED INFORMATION": [
+		{
+			"1.INSURED PLAN": "CHAMPVA Member ID#",
+			"1a. INSURED'S I.D. NUMBER": "LOLT7255VB153129",
+			"2. PATIENT'S NAME": "RICH, RICHARD K",
+			"3. PATIENT'S DATE OF BIRTH":[
+			{"MM":"03", "DD":"06", "YY":"1999"}
+			],
+			"3. PATIENT'S SEX": "M",
+			"4. INSURED'S NAME": "RICH, COOPER D",
+			"5. PATIENT'S ADDRESS": "345-3 DAVEY SPRING RD, 32ND BLOCK",
+			"5. PATIENT'S CITY": "NIAGARA CITY",
+			"5. PATIENT'S STATE":"NJ",
+			"5. PATIENT'S ZIP CODE": "16351",
+			"5. PATIENT'S TELEPHONE": "836 629-1299",
+			"6. PATIENT RELATIONSHIP": "Child",
+			"7. INSURED'S ADDRESS": "345-3 DAVEY SPRING RD, 32ND BLOCK",
+			"7. INSURED'S CITY": "NIAGARA", 
+			"7. INSURED'S STATE":"NJ",
+			"7. INSURED'S ZIP CODE":"16352", 
+			"7. INSURED'S TELEPHONE":"765- 235-5916",
+			"9. OTHER INSURED'S NAME": "RICH, COOPER D",
+			"9a. OTHER INSURED'S POLICY OR GROUP": "0623200518",
+			"9d. INSURANCE PLAN NAME": "CHAMPS MEDIC",
+			"10. PATIENT'S CONDITION": [
+			{"10a. EMPLOYMENT": "YES"},
+			{"10b. AUTO ACCIDENT": "YES"},
+			{"10c. OTHER ACCIDENT":"NO"}
+			],
+			"11. INSURED'S POLICY GROUP OR FECA NUMBER": "",
+			"11a. INSURED'S SEX": "M",
+			"11c. INSURANCE PLAN NAME": "EMPLOYEE PPO ENROLLING GROUP",
+			"11d. IS THERE ANOTHER HEALTH BENEFIT PLAN": "YES",
+			"12. PATIENT'S OR AUTHORIZED PERSON'S SIGNATURE": [
+			{"SIGNED": "COOP ", "DATE": "10 / 11 / 2015"}
+			],
+			"13. INSURED OR AUTHORIZED PERSON'S SIGNATURE": "SIGNATURE ON FILE"
+		}
+	],
+	"PHYSICIAN OR MEDICAL PROVIDER INFORMATION": [
+        {
+            "21. DIAGNOSIS OR NATURE OF ILLNESS": [
+			{
+				"label":"ICD Indicator",
+				"text": "9",
+				"words": [
+					{
+						"word": "9",
+						"normalizedVertices": [
+							{
+								"x": 875,
+								"y": 1295
+							},
+							{
+								"x": 905,
+								"y": 1295
+							},
+							{
+								"x": 905,
+								"y": 1320
+							},
+							{
+								"x": 875,
+								"y": 1320
+							}
+						]
+					}
+				]	
+			},
+			{"ILLNESS A.": "F22", "ILLNESS B.": "RZ616", "ILLNESS C.": "", "ILLNESS D.": ""},
+			{"ILLNESS E.": "L8991", "ILLNESS F.": "EX815.4"}
+			],
+			"20. OUTSIDE LAB": "NO",
+			"20. LAB $CHARGES": "0|00",
+			"22. RESUBMISSION CODE":  " ",
+			"23. PRIOR AUTHORIZATION NUMBER": "2159999966VB",
+			"24. SERVICES": [
+			{"MM 1":"10", "DD 1":"23", "YY 1": "24", "PLACE OF SERVICE 1": "16", "EMG 1": "Y", "CPT/HCPCS 1": "QR364", "MODIFIER 1": "KI", "DIAGNOSIS POINTER 1": "BB4", "$CHARGES 1":"2005|00", "UNITS 1":"45.5", "Family Plan 1": "", "PROVIDER ID 1": "87899553164"},
+			{"MM 2":"10", "DD 2":"20", "YY 2":"24", "PLACE OF SERVICE 2": "10", "EMG 2": "", "CPT/HCPCS 2": "SY5116", "MODIFIER 2": "", "DIAGNOSIS POINTER 2": "AB", "$CHARGES 2": "35|00", "UNITS 2": "002", "Family Plan 2": "", "PROVIDER ID 2": ""},
+			{"MM 3":"", "DD 3":"", "YY 3":"", "PLACE OF SERVICE 3": "", "EMG 3": "", "CPT/HCPCS 3": "", "MODIFIER 3": "", "DIAGNOSIS POINTER 3": "", "$CHARGES 3": "", "UNITS 3": "", "Family Plan 3": "", "PROVIDER ID 3": ""}
+			],
+			"25. FEDERAL TAX I.D. NUMBER": "878995114",
+			"25. FEDERAL IDENTIFICATION": "X EIN",
+            "26. PATIENT'S ACCOUNT NUMBER": "84013448118",
+            "27. ACCEPT ASSIGNMENT": "YES",
+			"28. TOTAL CHARGE": "2040|00",
+			"29. AMOUNT PAID": "1960|85",
+			"31. PHYSICIAN OR SUPPLIER SIGNATURE": [
+			{"SIGNED": "SIGNATURE ON FILE", "DATE": "10 / 11 / 2024"}
+			],
+			"32. SERVICE INFORMATION": [
+			{"32. SERVICE FACILITY LOCATION": "DENNIS HEALTH CARE CENTER KRISTEN HWY, PA 60322 MARILYN STD. RU 92ND"},
+			{"32. a. NPI NUMBER": "8364298710S"}
+			],
+			"33. BILLING INFORMATION": [
+			{"33. BILLING PROVIDER PHONE": "785 966-7039"},
+			{"33. BILLING PROVIDER LOCATION": "BILLED TO: HQ CLAIMS & BILLING SECTION RIVER VIEW LANE, PO BOX 60115 BROOKLYN CENTER IL 83345-1211"},
+			{"33. a. NPI NUMBER": "87899553164"}
+			]
+		}
+	]
+}

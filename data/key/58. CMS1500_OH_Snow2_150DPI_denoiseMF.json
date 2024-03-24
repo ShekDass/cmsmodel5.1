@@ -1,0 +1,106 @@
+{
+    "meta": {
+		"formtype": "HEALTH INSURANCE CLAIM FORM"
+	},
+	"PATIENT AND INSURED INFORMATION": [
+		{
+			"1.INSURED PLAN": "FECA BLK LUNG ID#",
+			"1a. INSURED'S I.D. NUMBER": " ",
+			"2. PATIENT'S NAME": "GOODMAN, CLAIRE",
+			"3. PATIENT'S DATE OF BIRTH":[
+			{"MM":"08", "DD":"04", "YY":"1967"}
+			],
+			"3. PATIENT'S SEX": "F",
+			"4. INSURED'S NAME": "GOODMAN, RICHARD-SHULTZ",
+			"5. PATIENT'S ADDRESS": "5419 N COVINGTON HWY",
+			"5. PATIENT'S CITY": "HOBBS",
+			"5. PATIENT'S STATE":"IL",
+			"5. PATIENT'S ZIP CODE": "88240",
+			"5. PATIENT'S TELEPHONE": "955 244-5118",
+			"6. PATIENT RELATIONSHIP": "Spouse",
+			"7. INSURED'S ADDRESS": "PARK TOWN, 417 GATE B, APT GROVE",
+			"7. INSURED'S CITY": "CLEVELAND", 
+			"7. INSURED'S STATE":"OH",
+			"7. INSURED'S ZIP CODE":"85705", 
+			"7. INSURED'S TELEPHONE":"765 235-5916",
+			"9. OTHER INSURED'S NAME": "RICHARD GOODMAN",
+			"9a. OTHER INSURED'S POLICY OR GROUP": "823456789941",
+			"9d. INSURANCE PLAN NAME": "MEDIC AID",
+			"10. PATIENT'S CONDITION": [
+			{"10a. EMPLOYMENT": "NO"},
+			{"10b. AUTO ACCIDENT": "NO"},
+			{"10c. OTHER ACCIDENT":"YES"}
+			],
+			"11. INSURED'S POLICY GROUP OR FECA NUMBER": "7239967399231",
+			"11a. INSURED'S SEX": "M",
+			"11c. INSURANCE PLAN NAME": "HOME DEPOT MEDIC CARE PPO RUBYX",
+			"11d. IS THERE ANOTHER HEALTH BENEFIT PLAN": "YES",
+			"12. PATIENT'S OR AUTHORIZED PERSON'S SIGNATURE": [
+			{"SIGNED": "SIGNATURE ON FILE", "DATE": "06 / 16 / 2025"}
+			],
+			"13. INSURED OR AUTHORIZED PERSON'S SIGNATURE": "SIGNATURE ON FILE"
+		}
+	],
+	"PHYSICIAN OR MEDICAL PROVIDER INFORMATION": [
+        {
+            "21. DIAGNOSIS OR NATURE OF ILLNESS": [
+			{
+				"label":"ICD Indicator",
+				"text": "9",
+				"words": [
+					{
+						"word": "9",
+						"normalizedVertices": [
+							{
+								"x": 875,
+								"y": 1295
+							},
+							{
+								"x": 905,
+								"y": 1295
+							},
+							{
+								"x": 905,
+								"y": 1320
+							},
+							{
+								"x": 875,
+								"y": 1320
+							}
+						]
+					}
+				]	
+			},
+			{"ILLNESS A.": "T899.50", "ILLNESS B.": "", "ILLNESS C.": "", "ILLNESS D.": "S8994"},
+			{"ILLNESS E.": "G816", "ILLNESS F.": "FB21G5"}
+			],
+			"20. OUTSIDE LAB": "NO",
+			"20. LAB $CHARGES": "0|00",
+			"22. RESUBMISSION CODE":  "",
+			"23. PRIOR AUTHORIZATION NUMBER": "21564897554",
+			"24. SERVICES": [
+			{"MM 1":"05", "DD 1":"17", "YY 1": "25", "PLACE OF SERVICE 1": "", "EMG 1": "", "CPT/HCPCS 1": "NP4510", "MODIFIER 1": "", "DIAGNOSIS POINTER 1": "AA", "$CHARGES 1":"350|50", "UNITS 1":"006", "Family Plan 1": "Y", "PROVIDER ID 1": "85566"},
+			{"MM 2":"", "DD 2":"", "YY 2":"", "PLACE OF SERVICE 2": "", "EMG 2": "", "CPT/HCPCS 2": "", "MODIFIER 2": "", "DIAGNOSIS POINTER 2": "", "$CHARGES 2": "", "UNITS 2": "", "Family Plan 2": "", "PROVIDER ID 2": ""},
+			{"MM 3":"", "DD 3":"", "YY 3":"", "PLACE OF SERVICE 3": "", "EMG 3": "", "CPT/HCPCS 3": "", "MODIFIER 3": "", "DIAGNOSIS POINTER 3": "", "$CHARGES 3": "", "UNITS 3": "", "Family Plan 3": "", "PROVIDER ID 3": ""}
+			],
+			"25. FEDERAL TAX I.D. NUMBER": "908-511-41622",
+			"25. FEDERAL IDENTIFICATION": "SSN",
+            "26. PATIENT'S ACCOUNT NUMBER": "325871025",
+            "27. ACCEPT ASSIGNMENT": "YES",
+			"28. TOTAL CHARGE": "1110|50",
+			"29. AMOUNT PAID": "1069|25",
+			"31. PHYSICIAN OR SUPPLIER SIGNATURE": [
+			{"SIGNED": "DENTAL HOSPTL CARE", "DATE": "06/ 16 / 2022"}
+			],
+			"32. SERVICE INFORMATION": [
+			{"32. SERVICE FACILITY LOCATION": "DR KIM'S DENTAL CARE SPECIALITY MEDICAL CENTRE 21ST TOWER BLOCK, IL 875886 HARRY PLAZA, 95TH CROSSING"},
+			{"32. a. NPI NUMBER": "85566"}
+			],
+			"33. BILLING INFORMATION": [
+			{"33. BILLING PROVIDER PHONE": "785 658-5410"},
+			{"33. BILLING PROVIDER LOCATION": "BILLING PARTY: KCC BILLING SECTION POSTAL BALLOT 945102 MILKY WAY PROMENADE MA 74445-1233"},
+			{"33. a. NPI NUMBER": "87899553164"}
+			]
+		}
+	]
+}

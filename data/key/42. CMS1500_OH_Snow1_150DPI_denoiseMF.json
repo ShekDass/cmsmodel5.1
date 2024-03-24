@@ -1,0 +1,106 @@
+{
+    "meta": {
+		"formtype": "HEALTH INSURANCE CLAIM FORM"
+	},
+	"PATIENT AND INSURED INFORMATION": [
+		{
+			"1.INSURED PLAN": "TRICARE ID#",
+			"1a. INSURED'S I.D. NUMBER": "NLLP72351531294",
+			"2. PATIENT'S NAME": "HORTON, PERRY L",
+			"3. PATIENT'S DATE OF BIRTH":[
+			{"MM":"09", "DD":"09", "YY":"1994"}
+			],
+			"3. PATIENT'S SEX": "M",
+			"4. INSURED'S NAME": "HORTON, SUSAN K",
+			"5. PATIENT'S ADDRESS": "3705 LAWRENCE VILLE HWY NE",
+			"5. PATIENT'S CITY": "LILBURN",
+			"5. PATIENT'S STATE":"PA",
+			"5. PATIENT'S ZIP CODE": "30047",
+			"5. PATIENT'S TELEPHONE": "865 239-9523",
+			"6. PATIENT RELATIONSHIP": "Spouse",
+			"7. INSURED'S ADDRESS": "3705 LAWRENCE VILLE HWY NE",
+			"7. INSURED'S CITY": "LILBURN", 
+			"7. INSURED'S STATE":"PA",
+			"7. INSURED'S ZIP CODE":"30047", 
+			"7. INSURED'S TELEPHONE":"765 235-5916",
+			"9. OTHER INSURED'S NAME": "HORTON, SUSAN K",
+			"9a. OTHER INSURED'S POLICY OR GROUP": "114911993731",
+			"9d. INSURANCE PLAN NAME": "MEDIC AID WITH TRIPLE CARE",
+			"10. PATIENT'S CONDITION": [
+			{"10a. EMPLOYMENT": "YES"},
+			{"10b. AUTO ACCIDENT": "NO"},
+			{"10c. OTHER ACCIDENT":"NO"}
+			],
+			"11. INSURED'S POLICY GROUP OR FECA NUMBER": "05011999231",
+			"11a. INSURED'S SEX": "F",
+			"11c. INSURANCE PLAN NAME": "UNITED EMPL. SERVICE GROUP",
+			"11d. IS THERE ANOTHER HEALTH BENEFIT PLAN": "YES",
+			"12. PATIENT'S OR AUTHORIZED PERSON'S SIGNATURE": [
+			{"SIGNED": "PERRIED", "DATE": "07 / 02 / 2024"}
+			],
+			"13. INSURED OR AUTHORIZED PERSON'S SIGNATURE": "SIGNATURE ON FILE"
+		}
+	],
+	"PHYSICIAN OR MEDICAL PROVIDER INFORMATION": [
+        {
+            "21. DIAGNOSIS OR NATURE OF ILLNESS": [
+			{
+				"label":"ICD Indicator",
+				"text": "0",
+				"words": [
+					{
+						"word": "0",
+						"normalizedVertices": [
+							{
+								"x": 875,
+								"y": 1295
+							},
+							{
+								"x": 905,
+								"y": 1295
+							},
+							{
+								"x": 905,
+								"y": 1320
+							},
+							{
+								"x": 875,
+								"y": 1320
+							}
+						]
+					}
+				]	
+			},
+			{"ILLNESS A.": "Y66", "ILLNESS B.": "NM3589", "ILLNESS C.": "", "ILLNESS D.": "EX7801"},
+			{"ILLNESS E.": "", "ILLNESS F.": "40112 . 8"}
+			],
+			"20. OUTSIDE LAB": "YES",
+			"20. LAB $CHARGES": "90|48",
+			"22. RESUBMISSION CODE":  "",
+			"23. PRIOR AUTHORIZATION NUMBER": "201419471411",
+			"24. SERVICES": [
+			{"MM 1":"11", "DD 1":"13", "YY 1": "23", "PLACE OF SERVICE 1": "09", "EMG 1": "", "CPT/HCPCS 1": "B2656", "MODIFIER 1": "21", "DIAGNOSIS POINTER 1": "AA", "$CHARGES 1":"76|24", "UNITS 1":"002", "Family Plan 1": "", "PROVIDER ID 1": "D3596148"},
+			{"MM 2":"01", "DD 2":"19", "YY 2":"24", "PLACE OF SERVICE 2": "20", "EMG 2": "", "CPT/HCPCS 2": "Q4641", "MODIFIER 2": "NU", "DIAGNOSIS POINTER 2": "A13", "$CHARGES 2": "239|19", "UNITS 2": "13.5", "Family Plan 2": "", "PROVIDER ID 2": "LA52887S"},
+			{"MM 3":"", "DD 3":"", "YY 3":"", "PLACE OF SERVICE 3": "", "EMG 3": "", "CPT/HCPCS 3": "", "MODIFIER 3": "", "DIAGNOSIS POINTER 3": "", "$CHARGES 3": "", "UNITS 3": "", "Family Plan 3": "", "PROVIDER ID 3": ""}
+			],
+			"25. FEDERAL TAX I.D. NUMBER": "1738-199-144",
+			"25. FEDERAL IDENTIFICATION": "SSN",
+            "26. PATIENT'S ACCOUNT NUMBER": "2840131844",
+            "27. ACCEPT ASSIGNMENT": "YES",
+			"28. TOTAL CHARGE": "315|43",
+			"29. AMOUNT PAID": " | ",
+			"31. PHYSICIAN OR SUPPLIER SIGNATURE": [
+			{"SIGNED": "SIGNATURE ON FILE", "DATE": "07 / 02 / 2023"}
+			],
+			"32. SERVICE INFORMATION": [
+			{"32. SERVICE FACILITY LOCATION": "DENNIS HEALTH CARE CENTER ALTA ROSA PA 60322 DAHLIA GROUNDS 22ND ST"},
+			{"32. a. NPI NUMBER": "14112000115"}
+			],
+			"33. BILLING INFORMATION": [
+			{"33. BILLING PROVIDER PHONE": "785 658-7129"},
+			{"33. BILLING PROVIDER LOCATION": "TO PAYER OF CLAIMS: IN-HOUSE TUL DEPT. SHERATON PLAZA, 8TH FLOOR, PIN CODE 911856"},
+			{"33. a. NPI NUMBER": ""}
+			]
+		}
+	]
+}
